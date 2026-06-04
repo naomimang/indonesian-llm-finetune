@@ -59,8 +59,8 @@ bash
 pip install -r requirements.txt
 3. Run training
 bash
-python train.py --epochs 3 --max_samples 1000
-📊 Training Configuration
+python train.py --epochs 3 --max_samples 1000```
+### 📊 Training Configuration
 Parameter	Value
 Base Model	Meta Llama 3.2 3B
 Quantization	4-bit (NF4)
